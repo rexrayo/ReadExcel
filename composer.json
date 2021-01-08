@@ -1,0 +1,12 @@
+{
+    "name": "kaller/excel",
+    "authors": [
+        {
+            "name": "kaller",
+            "email": "rexrayo15@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
